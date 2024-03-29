@@ -1,21 +1,17 @@
 <!doctype html>
-<!--
-Website By Miradontsoa / Highhay
-http://twitter.com/miradontsoa
-http://highhay.com
-contact at highhay dot com
--->
+
 <html class="no-js smooth-scroll" lang="en">
 
 <head>
   <meta http-equiv="content-type" content="text/html; charset=UTF-8">
 
   <!-- Page Title Here -->
-  <title>NY Creative Studio</title>
+  <title>NY Creative Studio | Digital Design & Development</title>
+          <link rel="icon" href="img/fav.jpg">
 
   <!-- Meta -->
   <!-- Page Description Here -->
-  <meta name="description" content="">
+  <meta name="description" content="NY Creative Studio: Experts in digital services, graphic & web design, app development, animations, digital marketing, SEO. Elevate your brand today!">
 
   <!-- Disable screen scaling-->
   <meta name="viewport" content="width=device-width, initial-scale=1, user-scalable=yes, shrink-to-fit=no">
@@ -81,8 +77,8 @@ contact at highhay dot com
           <!-- <img class="light-logo" src="img/logo.svg" alt="Simpleux Template"> -->
         </span>
         <span class="text ms-3">
-          <span class="line strong">NY</span>
-          <span class="line sub">Creative Studio</span>
+        <h1 style="font-size:20px">NY Creative Studio</h1>
+
         </span>
       </a>
 
@@ -129,13 +125,13 @@ contact at highhay dot com
                   <a class="nav-link" href="#">Home</a>
                 </li>
                 <li class="nav-item">
-                  <a class="nav-link" href="#">Gallery</a>
+                  <a class="nav-link" href="#">About</a>
                 </li>
                 <li class="nav-item">
-                  <a class="nav-link" href="#">Item</a>
+                  <a class="nav-link" href="#">Services</a>
                 </li>
                 <li class="nav-item">
-                  <a class="nav-link" href="#">Demo</a>
+                  <a class="nav-link" href="#">Contact</a>
                 </li>
               </ul>
             </div>
@@ -378,8 +374,8 @@ contact at highhay dot com
               <div class="title-desc">
                 <h2 class="display-3 anim-1 mb-4" data-anim-visible='fade'>Who we are</h2>
                 <div class="anim-2" data-anim-visible='fade'>
-                  <p>Our journey begins with a commitment to excellence. With a team of seasoned experts in design, development, marketing, and strategy, we embark on a mission to redefine your digital presence. Our extensive experience allows us to craft tailored solutions that align seamlessly with your brand, objectives, and target audience.</p>
-                  <p class="mb-0">We pride ourselves on being at the forefront of innovation. In an era where trends can become obsolete in the blink of an eye, we remain vigilant, constantly monitoring the digital horizon to identify emerging technologies and strategies that can give you a competitive edge. By leveraging the latest advancements, we create immersive online experiences that captivate and engage your audience.</p>
+                  <p>At NY Creative Studio, our journey is rooted in a dedication to excellence. Fueled by a team of seasoned experts in design, development, marketing, and strategy, we're on a mission to redefine your digital presence. With extensive experience, we craft tailored solutions that seamlessly align with your brand, objectives, and target audience.</p>
+                  <p class="mb-0">We take pride in our position at the forefront of innovation. In an era where trends evolve rapidly, we remain vigilant, constantly monitoring the digital horizon. This enables us to identify emerging technologies and strategies, giving you a competitive edge. By leveraging the latest advancements, we create immersive online experiences that captivate and engage your audience. Discover excellence in digital presence with NY Creative Studio</p>
 
                 </div>
               </div>
@@ -406,7 +402,7 @@ contact at highhay dot com
       <div class="section-body">
         <!-- content -->
         <div class="section-content container content-width anim">
-          <h2 class="display-3 anim-1 mb-4" data-anim-visible='fade'>Our Process</h2>
+          <h2 class="display-3 anim-1 mb-4" data-anim-visible='fade'>Our Services</h2>
 
           <div class="row">
             <div class="col col-12 col-lg-12">
@@ -416,15 +412,11 @@ contact at highhay dot com
                   <!-- an item -->
                   <div class="item item-feature-a" data-anim-visible='fade'>
                     <div class="img">
-                      <div class="icon">
-                        <i class="icon ion-ios-bulb"></i>
-                      </div>
+                        <img src="img/website design.png" width="150" alt="image">
                     </div>
                     <div class="item-body">
-                      <h4>Prototyping</h4>
-                      <p>We do this to make this word a nice and better place to live.
-                        Another text replace
-                        this.</p>
+                      <h4>Website Design</h4>
+                      <p>At NY Creative Studio, we don't just design websites; we sculpt digital experiences that captivate, engage, and leave a lasting impression. As a premier creative studio nestled in the heart of New York, we bring the energy of the city that never sleeps into every pixel we touch.</p>
                     </div>
                   </div>
                 </div>
@@ -434,15 +426,11 @@ contact at highhay dot com
                   <!-- an item -->
                   <div class="item item-feature-a" data-anim-visible='fade'>
                     <div class="img">
-                      <div class="icon">
-                        <i class="icon ion-ios-color-palette"></i>
-                      </div>
+                        <img src="img/graphic.png" width="150" alt="image">
                     </div>
                     <div class="item-body">
-                      <h4>Branding</h4>
-                      <p>We do this to make this word a nice and better place to live.
-                        Another text replace
-                        this.</p>
+                      <h4>Graphic Design</h4>
+                      <p>Welcome to NY Creative Studio, where creativity meets precision in every pixel. Our team of seasoned graphic designers is dedicated to transforming your ideas into visually stunning masterpieces that leave a lasting impression.</p>
                     </div>
                   </div>
                 </div>
@@ -452,15 +440,11 @@ contact at highhay dot com
                   <!-- an item -->
                   <div class="item item-feature-a" data-anim-visible='fade'>
                     <div class="img">
-                      <div class="icon">
-                        <i class="icon ion-ios-analytics"></i>
-                      </div>
+                        <img src="img/mobile-app-development.png" width="150" alt="image">
                     </div>
                     <div class="item-body">
-                      <h4>Analytics</h4>
-                      <p>We do this to make this word a nice and better place to live.
-                        Another text replace
-                        this.</p>
+                      <h4>Mobile App Development</h4>
+                      <p>Welcome to NY Creative Studio, where innovation meets functionality to create seamless mobile experiences. We are dedicated to turning your app ideas into reality, combining cutting-edge technology with user-centric design.</p>
                     </div>
                   </div>
                 </div>
@@ -1011,7 +995,7 @@ contact at highhay dot com
           </div>
 
           <div class="row mt-4 anim-4">
-            <div class="col-12 col-lg-4 mb-4 text-left">
+          <!--  <div class="col-12 col-lg-4 mb-4 text-left">
               <div itemprop="department" itemscope="" itemtype="https://schema.org/Place" data-anim-visible='fade'>
                 <h4 class="dep-name" itemprop="name">
                   <strong>New York Office</strong>
@@ -1022,25 +1006,25 @@ contact at highhay dot com
                     <span itemprop="streetAddress">12 Avenue de l'Est</span>
                   </div>
                   <div class="addr-line">
-                    <!-- <span itemprop="postalCode">98000</span> -->
+                     <span itemprop="postalCode">98000</span> 
                     <span itemprop="addressLocality">New York City, New York State</span>
                   </div>
                 </div>
               </div>
-            </div>
+            </div> -->
             <div class="col-12 col-lg-4 mb-4 text-left">
               <div itemprop="department" itemscope="" itemtype="https://schema.org/Place" data-anim-visible='fade'>
                 <h4 class="dep-name" itemprop="name">
-                  <strong>California Office</strong>
+                  <strong>New York Office</strong>
                 </h4>
                 <div class="dep-address" itemprop="address" itemscope="" itemtype="https://schema.org/PostalAddress">
-                  <div class="addr-line">Phone: <span itemprop="telephone">(0)123-456-7890</span></div>
+                  <div class="addr-line">Phone: <span itemprop="telephone">347 354 3435</span></div>
                   <div class="addr-line">
-                    <span itemprop="streetAddress">21 East Street, First Box</span>
+                    <span itemprop="streetAddress">2944 Ave. S, Brooklyn</span>
                   </div>
                   <div class="addr-line">
-                    <!-- <span itemprop="postalCode">98000</span> -->
-                    <span itemprop="addressLocality">Los Angeles, California</span>
+                    <!-- <span itemprop="postalCode">11229</span> -->
+                    <span itemprop="addressLocality">NY, United States</span>
                   </div>
                 </div>
               </div>
@@ -1082,7 +1066,7 @@ contact at highhay dot com
   <footer id="site-footer" class="footer-page ">
     <!-- Left content -->
     <div class="footer-left">
-      <p class="note text-sm">&copy; 2023 <a href="#"><span class="marked">NY Creative Studio.</span></a>
+      <p class="note text-sm">&copy; 2024 <a href="#"><span class="marked">NY Creative Studio.</span></a>
       </p>
     </div>
     <!-- Right content -->
@@ -1090,23 +1074,23 @@ contact at highhay dot com
       <nav class="nav-social nav-social-a">
         <ul>
           <li class="nav-item">
-            <a class="nav-link btn" href="#">
+            <a class="nav-link btn" href="https://www.facebook.com/nycreativestudioofficial">
               <span class="icon">
-                <i class="ion ion-logo-instagram"></i>
+                <i class="ion ion-logo-facebook"></i>
               </span>
             </a>
           </li>
           <li class="nav-item">
-            <a class="nav-link btn" href="#">
+            <a class="nav-link btn" href="https://dribbble.com/nycreativestudio">
               <span class="icon">
-                <i class="ion ion-logo-twitter"></i>
+                <i class="ion ion-logo-dribbble"></i>
               </span>
             </a>
           </li>
           <li class="nav-item">
-            <a class="nav-link btn" href="#">
+            <a class="nav-link btn" href="https://www.artstation.com/nycreativestudio">
               <span class="icon">
-                <i class="ion ion-logo-linkedin"></i>
+                <i class="ion ion-logo-behance"></i>
               </span>
             </a>
           </li>
